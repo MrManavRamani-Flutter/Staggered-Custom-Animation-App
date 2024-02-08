@@ -15,7 +15,6 @@ https://github.com/MrManavRamani-Flutter/Staggered-Custom-Animation-App/assets/1
 
 Welcome Screen | Welcome Screen | Welcome Screen  
 ---------------------- | ---------------------- | ----------------------
-
 <img src="https://github.com/MrManavRamani-Flutter/Staggered-Custom-Animation-App/assets/148671843/fa85a839-65be-488d-883d-cca65e27a6ab" alt="Welcome Screen 1.1" height="350">|<img src="https://github.com/MrManavRamani-Flutter/Staggered-Custom-Animation-App/assets/148671843/ef97ac91-3f7d-4d28-8419-065b8676eac9" alt="Welcome Screen 1.2" height="350">|<img src="https://github.com/MrManavRamani-Flutter/Staggered-Custom-Animation-App/assets/148671843/fa60a061-9d37-4e6d-824f-4cf24f14bc08" alt="Welcome Screen 1.3" height="350"> 
 
 
