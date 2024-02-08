@@ -1,6 +1,7 @@
 # stagged_animation
 
 A new Flutter project.
+Staggered Custom Animation App
 
 ## Getting Started
 
