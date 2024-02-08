@@ -4,6 +4,13 @@ A new Flutter project.
 Staggered Custom Animation App
 
 ## Getting Started
+## You can see the video of Staggered Custom Animation...
+
+
+
+https://github.com/MrManavRamani-Flutter/Staggered-Custom-Animation-App/assets/148671843/b9e9a156-0f42-46de-ae19-f89d21015fa1
+
+
 
 This project is a starting point for a Flutter application.
 
